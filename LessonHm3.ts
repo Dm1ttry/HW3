@@ -175,4 +175,4 @@ let pyramid = '';
 for (let i = 1; i <= rows; i++) {
     console.log( pyramid += '#');
 }
-// https://github.com/Dm1ttry/HW3.git
+
